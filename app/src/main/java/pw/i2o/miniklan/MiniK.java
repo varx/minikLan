@@ -21,6 +21,7 @@ public class MiniK {
 
     private static String TAG = MiniK.class.getSimpleName();
 
+
     public static boolean send(String mac, String pwd, final String cmd) throws UnknownHostException, SocketException {
         byte[] wifiIp = Network.getWifiIp();
         JniC jniC = new JniC();

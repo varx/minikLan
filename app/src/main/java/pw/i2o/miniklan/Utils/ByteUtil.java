@@ -1,4 +1,4 @@
-package pw.i2o.miniklan;
+package pw.i2o.miniklan.Utils;
 
 /**
  * Created by varx on 24/02/2017.

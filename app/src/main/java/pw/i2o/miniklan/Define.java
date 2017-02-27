@@ -8,6 +8,7 @@ public class Define {
     public static final int UDP_PORT = 27431;
     public static final class ACTION{
         public static final String NEW_DEVICE="NEW_DEVICE";
+        public static final String SEARCH_COMPLETE="SEARCH_COMPLETE";
     }
 
 

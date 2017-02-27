@@ -1,4 +1,4 @@
-package pw.i2o.miniklan;
+package pw.i2o.miniklan.bean;
 
 import java.io.Serializable;
 

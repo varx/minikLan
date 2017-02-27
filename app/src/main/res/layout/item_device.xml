@@ -14,7 +14,7 @@
             android:id="@+id/text_mac"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="18sp"
+            android:textSize="20sp"
             android:text="28-d9-8a-8b-96-bd" />
 
         <TextView
